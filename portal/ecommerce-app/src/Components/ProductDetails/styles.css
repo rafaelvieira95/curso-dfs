@@ -1,0 +1,20 @@
+
+.view-size{
+    width: 100%;
+    margin-top: 35px;
+    margin-left: 25px;
+
+}
+
+.image-zoom:hover{
+    transform: scale(1.2);    
+    transition: all .8s ease-in;
+}
+
+.purchase-card {
+    margin-top: 10px;
+    width: 390px;
+    border-radius: 2em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 1em;
+  }

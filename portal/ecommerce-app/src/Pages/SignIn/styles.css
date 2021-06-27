@@ -1,0 +1,13 @@
+
+.login-group{
+  margin: 0px auto;
+  position: relative;
+  border-collapse: separate;
+  display: block;
+  margin-top: 0px;
+  width: 40%;
+}
+
+.login-logo{
+    margin-top: 10px;
+}

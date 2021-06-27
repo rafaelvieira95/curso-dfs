@@ -1,0 +1,181 @@
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/appsettings.json
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.deps.json
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.runtimeconfig.json
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.runtimeconfig.dev.json
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/ref/ECommerce.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.pdb
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/AutoMapper.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Humanizer.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Npgsql.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csprojAssemblyReference.cache
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.AssemblyInfoInputs.cache
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.AssemblyInfo.cs
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.CoreCompileInputs.cache
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.MvcApplicationPartsAssemblyInfo.cs
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/staticwebassets/ECommerce.StaticWebAssets.Manifest.cache
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/staticwebassets/ECommerce.StaticWebAssets.xml
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/scopedcss/bundle/ECommerce.styles.css
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.RazorTargetAssemblyInfo.cache
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.CopyComplete
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ref/ECommerce.dll
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.pdb
+/home/rafael/RiderProjects/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.genruntimeconfig.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/appsettings.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.deps.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.runtimeconfig.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.runtimeconfig.dev.json
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ref/ECommerce.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.pdb
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/AutoMapper.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Humanizer.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Npgsql.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.AssemblyInfoInputs.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.AssemblyInfo.cs
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.CoreCompileInputs.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.MvcApplicationPartsAssemblyInfo.cs
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/staticwebassets/ECommerce.StaticWebAssets.Manifest.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/staticwebassets/ECommerce.StaticWebAssets.xml
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/scopedcss/bundle/ECommerce.styles.css
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.RazorTargetAssemblyInfo.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.CopyComplete
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ref/ECommerce.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.pdb
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.genruntimeconfig.cache
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/appsettings.json
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.deps.json
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.runtimeconfig.json
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.runtimeconfig.dev.json
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ref/ECommerce.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.pdb
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/AutoMapper.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Humanizer.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Npgsql.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csprojAssemblyReference.cache
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.AssemblyInfoInputs.cache
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.AssemblyInfo.cs
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.CoreCompileInputs.cache
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.MvcApplicationPartsAssemblyInfo.cs
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/staticwebassets/ECommerce.StaticWebAssets.Manifest.cache
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/staticwebassets/ECommerce.StaticWebAssets.xml
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/scopedcss/bundle/ECommerce.styles.css
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.RazorTargetAssemblyInfo.cache
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.CopyComplete
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ref/ECommerce.dll
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.pdb
+/home/rafael/Documents/GIT repositories/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.genruntimeconfig.cache
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/rafael/Documents/Dotnet GIT/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.AssemblyReference.cache
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/appsettings.Development.json
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/appsettings.json
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.deps.json
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.runtimeconfig.json
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.runtimeconfig.dev.json
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ref/ECommerce.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/ECommerce.pdb
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/AutoMapper.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Humanizer.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Npgsql.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.AssemblyReference.cache
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.AssemblyInfoInputs.cache
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.AssemblyInfo.cs
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.CoreCompileInputs.cache
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.MvcApplicationPartsAssemblyInfo.cs
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.MvcApplicationPartsAssemblyInfo.cache
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/staticwebassets/ECommerce.StaticWebAssets.Manifest.cache
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/staticwebassets/ECommerce.StaticWebAssets.xml
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/scopedcss/bundle/ECommerce.styles.css
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.RazorTargetAssemblyInfo.cache
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.csproj.CopyComplete
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ref/ECommerce.dll
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.pdb
+/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/Debug/net5.0/ECommerce.genruntimeconfig.cache
