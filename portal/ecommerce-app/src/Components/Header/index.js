@@ -1,24 +1,17 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useHistory } from 'react-router';
 import { Nav, Navbar, NavDropdown, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import {useAuth} from '../../Providers/auth';
 
 const Header = () => {
 
-   const [username, setUsername] = useState('Hello, Guest!');
    const history = useHistory();
-
-   useEffect(() => {
-      const storage = localStorage.getItem('@ecommerce:user');
-      if (storage != null) {
-         let userStorage = JSON.parse(storage);
-         setUsername(userStorage.user.email);
-      }
-   }, []);
+    const {user, setUser} = useAuth();
 
    const handleLogout = () => {
       localStorage.removeItem('@ecommerce:user');
-      setUsername('Hello, Guest!');
+      setUser({name: 'Hello, Guest!'});
       history.push('/');
    }
 
@@ -47,7 +40,7 @@ const Header = () => {
 
                <Link style={{marginLeft: 500}} className="navbar" to="/signin"> <Button> Sign In </Button> </Link>
 
-               <NavDropdown className="navbar" title={username} id="collasible-nav-dropdown">
+               <NavDropdown className="navbar" title={user.name} id="collasible-nav-dropdown">
                   <NavDropdown.Item onClick={handleLogout}> Logout</NavDropdown.Item>
                   <NavDropdown.Divider />
                   <NavDropdown.Item onClick={handleMyPurchases}>My Purchases</NavDropdown.Item>

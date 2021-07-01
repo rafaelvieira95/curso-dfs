@@ -20,7 +20,7 @@ namespace ECommerce.Persistence.Context
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseNpgsql(@"Server=127.0.0.1; port=5432; user id=postgres; password=root; database=ecommerce;");
+            optionsBuilder.UseNpgsql(@"Server=127.0.0.1; port=5432; user id=postgres; password=postgres; database=ecommerce;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

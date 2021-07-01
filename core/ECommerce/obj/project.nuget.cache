@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJjJ+WTWxILQZ2Y+gBBKOwK0FZTiC/eJmHfzOqAsyJAO3cvZ88fuqkt9oXhtqCrr91NXI3BYQmusJ+vaumfXFA==",
+  "dgSpecHash": "Zf0Sa5+3XyZog7MRuR/d+0NkGUs0O+SE+SI2m9JHWuluuTHJ5o4SuDxyIPUfDpzjYsoL1tdzlKYxIeQZVcgpJg==",
   "success": true,
-  "projectFilePath": "/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/ECommerce.csproj",
+  "projectFilePath": "/Users/rafaellimavieira/Documents/curso/curso-dfs/core/ECommerce/ECommerce.csproj",
   "expectedPackageFiles": [
     "/Users/rafaellimavieira/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/rafaellimavieira/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

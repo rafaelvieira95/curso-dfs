@@ -1591,11 +1591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/ECommerce.csproj",
+      "projectUniqueName": "/Users/rafaellimavieira/Documents/curso/curso-dfs/core/ECommerce/ECommerce.csproj",
       "projectName": "ECommerce",
-      "projectPath": "/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/ECommerce.csproj",
+      "projectPath": "/Users/rafaellimavieira/Documents/curso/curso-dfs/core/ECommerce/ECommerce.csproj",
       "packagesPath": "/Users/rafaellimavieira/.nuget/packages/",
-      "outputPath": "/Users/rafaellimavieira/Documents/Dotnet git/dotnet-webapis-rest/ECommerce/ECommerce/obj/",
+      "outputPath": "/Users/rafaellimavieira/Documents/curso/curso-dfs/core/ECommerce/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rafaellimavieira/.nuget/NuGet/NuGet.Config"

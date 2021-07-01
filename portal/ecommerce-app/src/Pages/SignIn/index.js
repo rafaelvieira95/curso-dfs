@@ -5,10 +5,14 @@ import logo from '../../_img/ms-icon-150x150.png';
 import './styles.css';
 import  {useForm}  from 'react-hook-form';
 import api from '../../Services/api';
+import {useAuth} from '../../Providers/auth';
 
 const SignIn = () => {
 
     const history = useHistory();
+
+    const {setUser} = useAuth();
+
     const { register, handleSubmit, watch} = useForm();
      const password = useRef({});
      password.current = watch("Password", "");
@@ -24,7 +28,7 @@ const SignIn = () => {
                history.push('/signin');   
             }else{
                 let result = JSON.parse(userLogged);
-                console.log(result.user.id);
+
                 const response = await api.get(`users/${result.user.id}`);
 
                 if(response.status === 401){
@@ -50,9 +54,11 @@ const SignIn = () => {
           
          if(response.status === 200){
               localStorage.removeItem('@ecommerce:user');
-              if(StayLogged){
-                  localStorage.setItem("@ecommerce:user", JSON.stringify(response.data.result));
-              }
+              
+        if(StayLogged){
+                localStorage.setItem("@ecommerce:user", JSON.stringify(response.data.result));
+        }
+                setUser({name: response.data.result.user.email});
                 history.push('/dashboard');
          }   
     }
