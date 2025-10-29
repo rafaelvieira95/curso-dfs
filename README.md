@@ -1,5 +1,5 @@
 # curso-dfs
-Implementacão completa de frontend e backed de um ecommerce simples, para a obtenção do certificado do curso Desenvolvedor Full-Stack
+Implementacão completa de frontend e backend de um ecommerce simples, para a obtenção do certificado do curso Desenvolvedor Full-Stack
 
 #instrução para cadastrar produtos e companhias.
 
